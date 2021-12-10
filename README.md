@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @KhaledGharib
 - 👀 I'm interested in programming
 - 🌱 I'm currently studying computer engineering
-- 📫 How to reach me contact@khaled-gharib.com
+<!-- - 📫 How to reach me contact@khaled-gharib.com -->
 
 <!---
 KhaledGharib/KhaledGharib is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
