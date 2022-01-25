@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @KhaledGharib
-- 👀 I'm interested in programming
+- 👀 I'm interested in web app
 - 🌱 I'm currently studying computer engineering
 <!-- - 📫 How to reach me contact@khaled-gharib.com -->
 
