@@ -3,7 +3,7 @@
 
 - 👯 I’m looking to collaborate on **Deferent Projects**
 
-- 👨‍💻 All of my projects are available at [KhaledGharib.com](KhaledGharib.com)
+- 👨‍💻 All of my projects are available at [KhaledGharib.com](https://KhaledGharib.com)
 
 - 📫 How to reach me **uni.khwg@gmail.om**
 
