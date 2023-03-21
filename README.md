@@ -21,6 +21,6 @@
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,sass,react,babel,webpack,postman,nodejs,mongodb,express,firebase,git,vscode)](https://skillicons.dev)
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=khaledgharib&show_icons=true&locale=en&layout=compact" alt="khaledgharib" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=khaledgharib&show_icons=true&locale=en&layout=compact&theme=dark" alt="khaledgharib" /></p>
 
 
