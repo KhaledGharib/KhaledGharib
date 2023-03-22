@@ -19,7 +19,7 @@
 
 <h3 align="left">Languages and Tools:</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,sass,mongodb,express,react,nodejs,webpack,babel,firebase,postman,git,vscode)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,sass,mongodb,express,react,nodejs,webpack,redux,babel,firebase,postman,git,vscode)](https://skillicons.dev)
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=khaledgharib&show_icons=true&locale=en&layout=compact&theme=dark" alt="khaledgharib" /></p>
 
