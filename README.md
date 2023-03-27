@@ -6,7 +6,7 @@
 
 - 👨‍💻 All of my projects are available at **Comming Soon**
 <!-- [KhaledGharib.com](https://KhaledGharib.com) -->
-- 📫 How to reach me **uni.khwg@gmail.om**
+- 📫 How to reach me **uni.khwg@gmail.com**
 
 - 📄 Know about my experiences [https://github.com/KhaledGharib](https://github.com/KhaledGharib)
 
