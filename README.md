@@ -4,13 +4,13 @@
 
 - 👯 I’m looking to collaborate on **Deferent Projects**
 
-- 👨‍💻 All of my projects are available at [KhaledGharib.com](https://KhaledGharib.com)
-
+- 👨‍💻 All of my projects are available at **Comming Soon**
+<!-- [KhaledGharib.com](https://KhaledGharib.com) -->
 - 📫 How to reach me **uni.khwg@gmail.om**
 
 - 📄 Know about my experiences [https://github.com/KhaledGharib](https://github.com/KhaledGharib)
 
-- ⚡ Fun fact **I'm not a robot**
+- ⚡ Fun fact **I'm not a robot 🤖**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
