@@ -10,7 +10,7 @@
 
 - 📄 Know about my experiences [https://github.com/KhaledGharib](https://github.com/KhaledGharib)
 
-- ⚡ Fun fact **I'm not a robot 🤖**
+- ⚡ Fun fact **I'm not a 🤖**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
