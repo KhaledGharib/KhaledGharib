@@ -4,8 +4,7 @@
 
 - 👯 I’m looking to collaborate on **Deferent Projects**
 
-- 👨‍💻 All of my projects are available at **Comming Soon**
-<!-- [KhaledGharib.com](https://KhaledGharib.com) -->
+<!-- - 👨‍💻 All of my projects are available at [KhaledGharib.com](https://KhaledGharib.com) -->
 - 📫 How to reach me **uni.khwg@gmail.com**
 
 - 📄 Know about my experiences [https://github.com/KhaledGharib](https://github.com/KhaledGharib)
