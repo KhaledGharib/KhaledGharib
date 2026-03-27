@@ -5,7 +5,7 @@
 - 👯 I’m looking to collaborate on **Deferent Projects**
 
 <!-- - 👨‍💻 All of my projects are available at [KhaledGharib.com](https://KhaledGharib.com) -->
-- 📫 How to reach me **contact@kgharib.com**
+- 📫 How to reach me **hello@khaleds.com**
 
 <!-- - 📄 Know about my experiences [https://github.com/KhaledGharib](https://github.com/KhaledGharib) -->
 
